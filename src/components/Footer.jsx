@@ -1,6 +1,6 @@
+import React from "react";
 import { Mail, Phone, ArrowUp } from "lucide-react";
 import logo from "../assets/logo.png";
-
 
 export default function Footer({ darkMode, showScrollTop, scrollToTop }) {
   return (

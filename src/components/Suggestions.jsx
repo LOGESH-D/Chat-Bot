@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Suggestions({ suggestions, handleClick, darkMode }) {
   return (
     <div className="flex overflow-x-auto space-x-3 px-4 pb-4 justify-center">

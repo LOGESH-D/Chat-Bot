@@ -1,3 +1,4 @@
+import React from "react";
 import { Loader2, Send as SendIcon } from "lucide-react";
 
 export default function InputBox({

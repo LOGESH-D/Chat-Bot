@@ -1,3 +1,4 @@
+import React from "react";
 import Lottie from "lottie-react";
 import { Sun, Moon, Trash2 } from "lucide-react";
 import AIani from "../assets/AIimg.json";
