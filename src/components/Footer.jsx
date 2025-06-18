@@ -15,9 +15,7 @@ export default function Footer({ darkMode, showScrollTop, scrollToTop }) {
           alt="Footer Logo"
           className="w-6 h-6 rounded-full object-cover"
         />
-        <span>
-          © {new Date().getFullYear()} Chat-Bot | Developed by LOKiiii
-        </span>
+        <span>© 2005 Chat-Bot | Developed by LOKiiii</span>
 
         <div className="flex items-center gap-1">
           <Mail size={14} />
