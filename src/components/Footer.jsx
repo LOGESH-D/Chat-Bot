@@ -21,7 +21,7 @@ export default function Footer({ darkMode, showScrollTop, scrollToTop }) {
           <Mail size={14} />
           <a
             href="mailto:logeshofficial333@gmail.com"
-            className="underline hover:text-blue-500"
+            className="hover:text-blue-500"
           >
             logeshofficial333@gmail.com
           </a>
@@ -29,7 +29,7 @@ export default function Footer({ darkMode, showScrollTop, scrollToTop }) {
 
         <div className="flex items-center gap-1">
           <Phone size={14} />
-          <a href="tel:+919488110405" className="underline hover:text-blue-500">
+          <a href="tel:+919488110405" className="hover:text-blue-500">
             +91 9488110405
           </a>
         </div>
